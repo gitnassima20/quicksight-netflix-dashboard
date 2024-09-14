@@ -87,7 +87,7 @@ distribution.
 ![alt text](screenshots/full-dashboard.png)
 
 
-Thank you to Nextwork Learning for your guidance 🙏.
+Thank you to https://learn.nextwork.org/ for your guidance 🙏.
 
 
 
